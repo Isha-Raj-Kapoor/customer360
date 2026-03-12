@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data files
+data/*.csv
+data/*.xlsx
+
+# Pipeline outputs
+output/*.csv
+
+# Logs
+logs/*.log
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
